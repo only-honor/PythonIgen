@@ -1,0 +1,5 @@
+f = open("a.txt", "w")
+f.write("Hello Friends ")
+f.write("This is India ")
+f.write("Punjab is a state in India")
+f.close()
